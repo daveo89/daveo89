@@ -1,37 +1,34 @@
-## Building intelligent systems, one layer at a time
+## Android engineer building robust mobile solutions
 
-Android engineer exploring the intersection of mobile development and generative AI.
+Focused on modern Android development with clean architecture patterns.
 
 
 ### Current Focus
 
-Building production-ready AI agents and context-aware systems.
+Contributing to open source Android libraries and improving development tooling.
 
 
-### Active Projects
+### Recent Work
 
-**MCP Integration Toolkit**  
-Connecting mobile apps with AI models through the Model Context Protocol.
+**AssemblyAI SDK**  
+Added ProGuard configuration documentation for the Java SDK.
 
-**Android AI Assistant**  
-Native Android client for context-aware AI interactions with local state management.
-
-**GenAI Guardrails**  
-Safety and validation layer for LLM outputs in production environments.
+**Android Hilt Examples**  
+Demonstrating dependency injection patterns with Hilt.
 
 
 ### Core Stack
 
-Kotlin • Android • Java  
-Hilt • Coroutines • Retrofit  
-MCP • LangGraph • RAG
+Java • Kotlin • Android  
+Hilt • Retrofit • ProGuard  
+Gradle • Android SDK
 
 
 ### Learning
 
-Model Context Protocol architecture  
-Prompt engineering patterns  
-Agent orchestration with LangGraph
+Advanced Kotlin coroutines  
+Modern Android architecture  
+CI/CD for mobile apps
 
 
 ### Reach Me
@@ -41,4 +38,4 @@ GitHub • LinkedIn • Email
 
 ---
 
-*Build systems that think with you, not for you.*
+*Build with purpose, ship with confidence.*
