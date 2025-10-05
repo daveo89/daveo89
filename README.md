@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on private project improving learning process. Stay tuned!
+- 📫 How to reach me: krezel.dawid@gmail.com
+
 <!--
 **daveo89/daveo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
