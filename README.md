@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on private project improving learning process. Stay tuned!
+- 🔭 I’m currently working on a private project improving learning process. Stay tuned!
 - 📫 How to reach me: krezel.dawid@gmail.com
 
 <!--
